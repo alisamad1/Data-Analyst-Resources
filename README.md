@@ -36,4 +36,4 @@ Contributions are welcome! If you have useful resources, tutorials, or projects 
 
 ## Contact
 
-For questions or suggestions, you can reach out via GitHub issues or contact me at [your-email@example.com].
+For questions or suggestions, you can reach out via GitHub issues or contact me at aliussamad@gmail.com.
